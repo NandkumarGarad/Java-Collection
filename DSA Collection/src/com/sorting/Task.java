@@ -2,8 +2,7 @@ package com.sorting;
 
 import java.util.ArrayList;
 import java.util.TreeSet;
-
-import collection.program.list.arraylist.MyComparator;
+ 
 
 public class Task {
 	public static void main(String[] args) {
